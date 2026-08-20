@@ -1,7 +1,4 @@
-# 👋🧩 Morphe Patches template
-
-Template repository for Morphe Patches.
-
+# 👋🧩 Morphe Patches Chicco
 ## ❓ About
 
 Patches for apps I like.
