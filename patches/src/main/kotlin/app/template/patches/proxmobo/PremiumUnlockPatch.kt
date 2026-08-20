@@ -40,7 +40,7 @@ object PigeonPurchasesMapperFingerprint : Fingerprint(
 @Suppress("unused")
 val premiumUnlockPatch = bytecodePatch(
     name = "ProxMobo Premium Unlock",
-    description = "Reports the lifetime Premium product (proxmobo.premium.lifetime) as purchased so all Premium features are unlocked.",
+    description = "Unlocks Premium by reporting the lifetime product (proxmobo.premium.lifetime) as purchased. On first launch, open Settings and press \u201CRestore Purchases\u201D to activate Premium.",
     default = true
 ) {
     compatibleWith(COMPATIBILITY_PROXMOBO)
