@@ -10,7 +10,7 @@ Patches for apps I like.
 
 ### How to use these patches
 
-Click here to add these patches to Morphe: https://morphe.software/add-source?github=xyz-user/xyz-patches
+Click here to add these patches to Morphe: https://morphe.software/add-source?github=chicco-carone/morphe-patches-chicco
 
 ## 🩹 Patches list
 
