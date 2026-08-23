@@ -19,13 +19,13 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 
 **🎯 Supported versions:**
 
-| 1.0.1 |
+| 1.0.3 |
 | :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [ProxMobo License Check Bypass](#proxmobo-license-check-bypass) | Disables Google's Play app-licensing (PairIP) check so ProxMobo does not show license errors or close when it is not installed/licensed through Google Play. |  |
-| [ProxMobo Premium Unlock](#proxmobo-premium-unlock) | Reports the lifetime Premium product (proxmobo.premium.lifetime) as purchased so all Premium features are unlocked. |  |
+| [ProxMobo Premium Unlock](#proxmobo-premium-unlock) | Unlocks Premium by reporting the lifetime product (proxmobo.premium.lifetime) as purchased. On first launch, open Settings and press “Restore Purchases” to activate Premium. |  |
 
 </details>
 

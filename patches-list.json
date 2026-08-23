@@ -17,7 +17,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "1.0.1",
+              "version": "1.0.3",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
@@ -30,7 +30,7 @@
     },
     {
       "name": "ProxMobo Premium Unlock",
-      "description": "Reports the lifetime Premium product (proxmobo.premium.lifetime) as purchased so all Premium features are unlocked.",
+      "description": "Unlocks Premium by reporting the lifetime product (proxmobo.premium.lifetime) as purchased. On first launch, open Settings and press \u201cRestore Purchases\u201d to activate Premium.",
       "default": true,
       "dependencies": [
         "BytecodePatch"
@@ -45,7 +45,7 @@
           "signatures": null,
           "targets": [
             {
-              "version": "1.0.1",
+              "version": "1.0.3",
               "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
